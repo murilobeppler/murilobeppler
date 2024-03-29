@@ -10,15 +10,24 @@
 - 📫 How to reach me
   
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511971669926)
-
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lilobeppler/)
-
-  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilobeppler)
-
-  [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:murilobeppler@hotmail.com?subject=Vim%20do%20github%20e%20queria%20entrar%20em%20contato)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lilobeppler/)
+ [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilobeppler)
+ [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:murilobeppler@hotmail.com?subject=Vim%20do%20github%20e%20queria%20entrar%20em%20contato)
 
 
   ![Murilo Beppler GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobeppler&show_icons=true&theme=radical)
  
+# Programing languages I'm learning in college and on my own
+<div style="display:inline_block"><br/><img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div> <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobeppler&layout=compact)
 
   
