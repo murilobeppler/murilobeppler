@@ -1,7 +1,7 @@
  # 👋 Hi, I’m Murilo Beppler, and welcome to my GitHub profile!
-   I'm 20 years old and I study Computer Science at UFU (Federal College of Uberlândia), going to my 4th period and I love studying technology, how it works, and how it can change the world!
+   ## I'm 20 years old and I study Computer Science at UFU (Federal College of Uberlândia), going to my 4th semester and I love studying technology, how it works, and how it can change the world!  <br/><br/>
  
-- ❤️‍🔥 I’m interested in programming (obviously), sports, series, playing guitar and videogame
+- ❤️‍🔥 I’m interested in programming 🖥️ (obviously🤣),  doing sports ⚽, watching series 📺,  playing guitar and videogames 🎮
   
 - 👔 I´m currently in the President position at the Junior Enterprise called ASCII - Soluções Em Tecnologia; making mainly WebDevelopment, consulting, and software modeling
   
@@ -29,5 +29,15 @@
 </div> <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilobeppler&layout=compact)
+
+### My TOP 3 personal repositories 
+
+- [project UDI-DECOLA: software de vendas de passagens aéreas e hotéis](https://github.com/murilobeppler/UDI-Decola) made with <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
+- [project Jogo Da Velha](https://github.com/murilobeppler/jogo-da-velha) made with <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+- [project Jogo De Labirinto](https://github.com/murilobeppler/projeto-labirinto) made with <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+### My website - Resume - Portfolio - experiences (still in progress...)
+https://github.com/murilobeppler/processoseletivoASCII/tree/main/desafio%20final
+
 
   
