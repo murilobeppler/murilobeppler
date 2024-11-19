@@ -1,5 +1,5 @@
  # 👋 Hi, I’m Murilo Beppler, and welcome to my GitHub profile!
-   ## I'm 20 years old and I study Computer Science at UFU (Federal College of Uberlândia), going to my 4th semester and I love studying technology, how it works, and how it can change the world!  <br/><br/>
+   ## I'm 21 years old and I study Computer Science at UFU (Federal College of Uberlândia), going to my 4th semester and I love studying technology, how it works, and how it can change the world!  <br/><br/>
  
 - ❤️‍🔥 I’m interested in programming 🖥️ (obviously🤣),  doing sports ⚽, watching series 📺,  playing guitar and videogames 🎮
   
