@@ -16,6 +16,10 @@
 
 
   ![Murilo Beppler GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobeppler&show_icons=true&theme=radical)
+
+  ## 🐍 GitHub Snake
+![snake gif](https://github.com/<seu-username>/<nome-do-repositorio>/blob/output/github-contribution-grid-snake.svg)
+
  
 # Programing languages I'm learning in college and on my own
 <div style="display:inline_block"><br/><img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
