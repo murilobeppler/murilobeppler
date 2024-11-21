@@ -17,8 +17,9 @@
 
   ![Murilo Beppler GitHub stats](https://github-readme-stats.vercel.app/api?username=murilobeppler&show_icons=true&theme=radical)
 
-  ## 🐍 GitHub Snake
-![snake gif](https://github.com/<seu-username>/<nome-do-repositorio>/blob/output/github-contribution-grid-snake.svg)
+  ## 🐍 Jogo da cobrinha
+![Jogo da Cobrinha](https://github.com/murilobeppler/snk/raw/main/dist/docker/github-contribution-grid-snake.gif)
+
 
  
 # Programing languages I'm learning in college and on my own
